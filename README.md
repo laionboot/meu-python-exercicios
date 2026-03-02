@@ -5,7 +5,7 @@ Este repositório contém alguns dos exercícios que desenvolvi durante o **Mund
 ## 🚀 Tecnologias e Conceitos Estudados
 *   **Dicionários:** Organização de dados com chaves e valores.
 *   **Listas Compostas:** Manipulação de estruturas de dados multidimensionais.
-*   **Funções:** Modularização e reutilização de código.
+*   **Funções:** Organização de blocos de código e passagem de parâmetros.
 
 ## 📂 Exercícios em Destaque
 *   **ex084.py:** Analisando o peso de várias pessoas em uma lista composta.
